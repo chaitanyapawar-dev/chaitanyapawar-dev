@@ -11,7 +11,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://chaitanya-portfolio-lemon.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chaitanyapawar02)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaitanyapawar.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chaitanyapawar-dev)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chaitanyapawar-dev&color=6EE7B7&style=flat-square&label=Profile+Views)
@@ -72,40 +72,38 @@ chaitanya = {
 
 **Languages**
 
-[![Skills](https://skillicons.dev/icons?i=python,javascript,cpp,c,typescript,sql&theme=dark)](https://skillicons.dev)
+[<img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" title="Python"/>](https://www.python.org/)&nbsp;
+[<img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript" title="JavaScript"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;
+[<img src="https://skillicons.dev/icons?i=typescript" height="40" alt="TypeScript" title="TypeScript"/>](https://www.typescriptlang.org/)&nbsp;
+[<img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" title="C++"/>](https://isocpp.org/)&nbsp;
+[<img src="https://skillicons.dev/icons?i=c" height="40" alt="C" title="C"/>](https://www.open-std.org/jtc1/sc22/wg14/)&nbsp;
+[<img src="https://skillicons.dev/icons?i=mysql" height="40" alt="SQL/MySQL" title="MySQL"/>](https://www.mysql.com/)
 
 **Frontend & Backend**
 
-[![Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs,fastapi&theme=dark)](https://skillicons.dev)
+[<img src="https://skillicons.dev/icons?i=react" height="40" alt="React" title="React"/>](https://react.dev/)&nbsp;
+[<img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" title="Next.js"/>](https://nextjs.org/)&nbsp;
+[<img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" title="Node.js"/>](https://nodejs.org/)&nbsp;
+[<img src="https://skillicons.dev/icons?i=express" height="40" alt="Express" title="Express"/>](https://expressjs.com/)&nbsp;
+[<img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" title="MongoDB"/>](https://www.mongodb.com/)&nbsp;
+[<img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="FastAPI" title="FastAPI"/>](https://fastapi.tiangolo.com/)
 
 **AI / ML**
 
-[![Skills](https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark)](https://skillicons.dev)
+[<img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="PyTorch" title="PyTorch"/>](https://pytorch.org/)&nbsp;
+[<img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="TensorFlow" title="TensorFlow"/>](https://www.tensorflow.org/)
 
 `RAG` `LLMs` `ChromaDB` `Ollama` `Whisper` `CLIP` `BLIP` `Generative AI`
 
-**Cloud & Tools (learning + applying)**
+**Cloud & Tools**
 
-[![Skills](https://skillicons.dev/icons?i=aws,azure,git,github,vscode,mysql&theme=dark)](https://skillicons.dev)
+[<img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" title="AWS"/>](https://aws.amazon.com/)&nbsp;
+[<img src="https://skillicons.dev/icons?i=azure" height="40" alt="Azure" title="Azure"/>](https://azure.microsoft.com/)&nbsp;
+[<img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" title="Git"/>](https://git-scm.com/)&nbsp;
+[<img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" title="GitHub"/>](https://github.com/)&nbsp;
+[<img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" title="VS Code"/>](https://code.visualstudio.com/)
 
 `MCP` `Power BI` `WordPress` `WooCommerce`
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chaitanyapawar-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyapawar-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=chaitanyapawar-dev&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -115,16 +113,6 @@ chaitanya = {
 
 - 🏆 **IBM AI Engineering Professional Certificate** — IBM / Coursera, 2025
 - 📊 **Microsoft Power BI Data Analyst Professional Certificate** — Microsoft / Coursera, 2023
-
----
-
-## 🌱 Currently Learning
-
-```
-📦 AWS        → Deploying real projects, not just reading docs
-☁️  Azure AI  → Azure OpenAI Service + ML endpoints  
-🔌 MCP        → Building Model Context Protocol servers from scratch
-```
 
 ---
 
